@@ -1,0 +1,9 @@
+[submodule "transafe-server"]
+	path = transafe-server
+	url = git@github.com:thomasfire/transafe-server.git
+[submodule "transafe-client"]
+	path = transafe-client
+	url = git@github.com:thomasfire/transafe-client.git
+[submodule "transafe-sender"]
+	path = transafe-sender
+	url = git@github.com:thomasfire/transafe-sender.git
